@@ -1,12 +1,15 @@
-# anim
-Sandbox to play around with different js/css animation libs
+# artsy
+Sandbox to play around with different js/css animation and drawing libs
 
-libs
+Anim
 ---
 - https://github.com/drcmda/react-spring
-- https://github.com/pshihn/rough
 - https://github.com/berzniz/react-overdrive
 - https://github.com/juliangarnier/anime
-- https://github.com/maxwellito/vivus
 - https://github.com/veltman/flubber
 - https://github.com/daneden/animate.css
+
+Draw
+---
+- https://github.com/pshihn/rough
+- https://github.com/maxwellito/vivus
